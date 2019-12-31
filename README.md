@@ -1,0 +1,3 @@
+- https://www.htaccesstools.com/htpasswd-generator/
+- fadilxcoder
+- u99qDU2BVgBgD@i
